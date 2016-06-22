@@ -1,0 +1,11 @@
+{
+  "name": "feedwitter",
+  "version": "1.0.0",
+  "description": "An app for auto-retweet en from the news. Like paper.li",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Antony Canut",
+  "license": "ISC"
+}
