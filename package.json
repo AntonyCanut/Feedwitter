@@ -9,6 +9,7 @@
   "author": "Antony Canut",
   "license": "ISC",
   "dependencies": {
-    "feedly": "^0.1.6"
+    "feedly": "^0.1.6",
+    "json-parse": "^1.0.3"
   }
 }
