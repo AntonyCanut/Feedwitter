@@ -7,5 +7,8 @@
     "start": "node index.js"
   },
   "author": "Antony Canut",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "feedly": "^0.1.6"
+  }
 }
